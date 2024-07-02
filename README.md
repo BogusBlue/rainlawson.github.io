@@ -1,2 +1,4 @@
 # rainlawson.github.io
-Personal website repository.
+This is my personal website repository.
+
+## Projects

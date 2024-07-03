@@ -1,5 +1,7 @@
 # rainlawson.github.io
 ## Hello
+<img src="1699126763154.jpg" width="120"/>
+ 
 My name is Rain Lawson, and I'm hoping to start a carreer in technology.
 
 I graduated summa cum laude from Texas State University in 2022 with a B.S. in Computer Science. I followed up by continuing with graduate school, in which I worked with Dr. Martin Burtscher and his [Efficient Computing Laboratory (ECL)](https://userweb.cs.txstate.edu/~burtscher/research.html). Then, I worked for a time as a research and development software engineer for GeoSpatial Innovations.
